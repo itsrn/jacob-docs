@@ -1,7 +1,8 @@
 {
   "index": "Introduction",
-  "functions": "Functions",
   "getting-started": "Getting Started",
+  "functions": "Functions",
+  "variables": "Variables",
   "about": {
     "title": "About",
     "type": "page"

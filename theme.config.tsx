@@ -6,7 +6,7 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/itsrn/jacob.js',
   },
-  docsRepositoryBase: 'https://github.com/itsrn/jacob-docs',
+  docsRepositoryBase: 'https://github.com/itsrn/jacob-docs/tree/main',
   footer: {
     text: 'Made with 🧆 by Ron Nuss.',
   }
