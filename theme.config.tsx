@@ -2,17 +2,14 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>Jacob</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/itsrn/jacob.js',
   },
-  chat: {
-    link: 'https://discord.com',
-  },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/itsrn/jacob-docs',
   footer: {
-    text: 'Nextra Docs Template',
-  },
+    text: 'Made with 🧆 by Ron Nuss.',
+  }
 }
 
 export default config

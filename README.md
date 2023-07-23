@@ -1,10 +1,8 @@
-# Nextra Docs Template 
+# Jacob docs 
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+This is the docs for [Jacob.js](https://github.com/itsrn/jacob.js). 
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
-
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+Created with [Nextra](https://nextra.site) documentation template.
 
 ## Quick Start
 
@@ -20,4 +18,4 @@ Then, run `pnpm dev` to start the development server and visit localhost:3000.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](/LICENSE).
