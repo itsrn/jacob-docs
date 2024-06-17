@@ -1,3 +1,6 @@
+# Archived
+The whole "Jacob.js" project is archived, so this is too.
+
 # Jacob docs 
 
 This is the docs for [Jacob.js](https://github.com/itsrn/jacob.js). 
